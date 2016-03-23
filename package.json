@@ -1,0 +1,25 @@
+{
+  "name": "screeps-ai",
+  "version": "0.0.1",
+  "description": "AI for screeps.com",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "screeps"
+  ],
+  "author": "Denis <derofim@yandex.ru> (http://derofim.github.io/blog/)",
+  "license": "MIT",
+  "dependencies": {
+    "eslint": "^2.4.0",
+    "grunt-babel": "^6.0.0",
+    "grunt-contrib-uglify": "^1.0.1",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-eslint": "^18.0.0",
+    "grunt-jsdoc": "^1.1.0",
+    "grunt-screeps": "^1.2.0",
+    "lodash": "^4.6.1",
+    "node-uglifier": "^0.4.5"
+  }
+}

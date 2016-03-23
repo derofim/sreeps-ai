@@ -1,0 +1,20 @@
+{
+  "parserOptions": {
+    "ecmaVersion": 6,
+    "sourceType": "module"
+  },
+  "rules": {
+    "strict": 0,
+    "indent": [2, "tab", {
+      "SwitchCase": 1
+    }],
+    //"quotes": [ 2, "single" ],
+    "brace-style": [2, "1tbs"],
+    "comma-style": [2, "last"],
+    "new-cap": 0,
+    "no-underscore-dangle": 0,
+    //"no-else-return": 1,
+    "no-param-reassign": 2,
+    "no-debugger": 0
+  }
+}

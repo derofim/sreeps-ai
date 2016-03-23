@@ -1,0 +1,12 @@
+Combine code from previous versions:
+ 0) Cache everything! ;)
+ 1) https://gist.github.com/derofim/e19a57bfff7f3ae20de8
+ 2) Path predefined (rework) https://gist.github.com/derofim/60ed3480bfeac30caf42
+ 3) https://gist.github.com/derofim/6ee2c0fdad9b7cc94e9c
+
+use pathCache my https://gist.github.com/derofim/72b7a5e1a57b77877892 or https://github.com/tomekbielaszewski/screeps
+add towers see https://github.com/Zinal001/Screeps-MainBuild/blob/master/TowerController.js
+add spawnPriorityQue as in https://github.com/avdg/screeps
+add more creep types (tanks, dodges, road-repair-man, mailman, PIPE-creeps to source)
+add more creep actions as in https://github.com/jacktho/Screeps see Screeps/lib/baseCreep.js
+use more lodash as https://github.com/Rastikko/screeps-lodash
